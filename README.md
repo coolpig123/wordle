@@ -1,9 +1,9 @@
 # Wordle
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/coolpig123/chess)](https://github.com/coolpig123/chess)
-[![Github Issues](https://img.shields.io/github/issues-raw/coolpig123/chess)](https://github.com/coolpig123/chess/issues)
-[![Github License](https://img.shields.io/github/license/coolpig123/chess)](https://github.com/coolpig123/chess/blob/master/LICENSE.txt)
-[![Github Downloads](https://img.shields.io/github/downloads/coolpig123/chess/total)](https://github.com/coolpig123/chess)
+[![Github Repo Size](https://img.shields.io/github/repo-size/coolpig123/chess)](https://github.com/coolpig123/wordle)
+[![Github Issues](https://img.shields.io/github/issues-raw/coolpig123/chess)](https://github.com/coolpig123/wordle/issues)
+[![Github License](https://img.shields.io/github/license/coolpig123/chess)](https://github.com/coolpig123/wordle/blob/master/LICENSE.txt)
+[![Github Downloads](https://img.shields.io/github/downloads/coolpig123/chess/total)](https://github.com/coolpig123/wordle)
 
 
 - [Features](#Features)
